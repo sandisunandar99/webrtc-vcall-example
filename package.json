@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-vcall-sampel",
+  "version": "1.0.0",
+  "description": "sample make webrtc video dan voice call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandi sunandar (sandisunandar99@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0",
+    "websocket": "^1.0.34"
+  }
+}
